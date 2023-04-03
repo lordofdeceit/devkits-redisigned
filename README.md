@@ -5,7 +5,7 @@ The code published in this repo is from my private collection. I'm not a great p
 
  #kits used include;
  
-   * #Arduino uno with ESP8266 module and couple of sensors (currently censors not public)
+   * #Arduino uno with ESP8266 module and couple of sensors (currently censors code not public)
     
    * #ATMEL SAMD 21 Explained pro with WINC 1500 module and some sp module
     
